@@ -1,20 +1,20 @@
 {
-    "name": "@yumenative/baileys",
-    "version": "2.0.3",
-    "description": "WhatsApp API Modification By K",
+    "name": "@rapipppmods/baileys",
+    "version": "3.0.3",
+    "description": "WhatsApp Bailyes New",
     "keywords": [
         "whatsapp",
-        "laurine-wabot",
+        "wabot-rapip",
         "baileys",
         "whatsapp-web",
         "whatsapp-chat",
         "whatsapp-group",
         "botwa",
-        "stvnnvs"
+        "improve"
     ],
-    "homepage": "https://www.npmjs.com/package/@stvnnvs/baileys",
+    "homepage": "https://github.com/rapipppganzz/rapip-bailyess",
     "repository": {
-        "url": "https://www.npmjs.com/package/@stvnnvs/baileys"
+        "url": "https://github.com/rapipppganzz/rapip-bailyess"
     },
     "license": "MIT",
     "author": "Adhiraj Singh",
