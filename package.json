@@ -17,7 +17,7 @@
         "url": "https://github.com/rapipppganzz/rapipbailyes"
     },
     "license": "MIT",
-    "author": "Adhiraj Singh",
+    "author": "rapipppganzz",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
