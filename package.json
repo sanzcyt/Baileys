@@ -51,7 +51,6 @@
         "chalk": "^4.1.2",
         "futoin-hkdf": "^1.5.1",
         "libphonenumber-js": "^1.10.20",
-        "libsignal": "npm:@daffadeveloper/signal-node",
         "lodash": "^4.17.21",
         "music-metadata": "^7.12.3",
         "node-cache": "^5.1.2",
